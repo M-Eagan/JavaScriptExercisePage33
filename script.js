@@ -3,11 +3,9 @@
     let name3 = prompt("What's your name?");
 
     
-    // let name1= "";
+    
     let name1length= name1.length;
-    // let name2= "Charles";
     let name2length= name2.length;
-    // let name3 = "Brendan";
     let name3length= name3.length;
 
     if (name1length > name2length && name1lenghth > name3length) {
