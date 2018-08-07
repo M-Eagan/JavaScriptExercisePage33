@@ -8,7 +8,7 @@
     let name2length= name2.length;
     let name3length= name3.length;
 
-    if (name1length > name2length && name1lenghth > name3length) {
+    if (name1length > name2length && name1length > name3length) {
     console.log(name1 + " has the longer name.");
     } else if (name2length > name1length && name2length > name3length) {
     console.log(name2 + " has the longest name.");
